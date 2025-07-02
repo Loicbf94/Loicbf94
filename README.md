@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋
 Soy un científico de datos junior con experiencia previa en logística y documentación técnica.  
 He trabajado con Python, Pandas, NumPy, Matplotlib y fundamentos de Machine Learning.  
 Actualmente en proceso de aprender otras tecnologías y seguir desarrollando proyectos propios para crecer como profesional.
