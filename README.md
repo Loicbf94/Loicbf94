@@ -2,6 +2,8 @@
 Soy un científico de datos junior con experiencia previa en logística y documentación técnica.  
 He trabajado con Python, Pandas, NumPy, Matplotlib y fundamentos de Machine Learning.  
 Actualmente en proceso de aprender otras tecnologías y seguir desarrollando proyectos propios para crecer como profesional.
+
+Puedes encontrarme en: www.linkedin.com/in/barberá-ferrer-loic
 <!--
 **Loicbf94/Loicbf94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
